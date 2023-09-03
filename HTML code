@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>OSINT Image Search</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <h1>OSINT Image Search</h1>
+    <input type="file" id="imageUpload" accept="image/*">
+    <button id="searchButton">Search</button>
+    <div id="results"></div>
+    <script src="script.js"></script>
+</body>
+</html>
